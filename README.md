@@ -8,7 +8,7 @@ Makefile.
 
 For more information visit: [Codam.nl](https://codam.nl/) or [42 Cursus Subjects](https://github.com/Surfi89/42cursus/tree/main/Subject%20PDFs)
 
-## Beware
+### Beware
 This repository is NOT in line with the assignment in terms that I have added new functions to it and the bonus is not seperatly added as in the original assignment.
 
 ### Requirements
